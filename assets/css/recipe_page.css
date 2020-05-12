@@ -1,0 +1,242 @@
+/*
+  ----------------------------
+  Recipe page CSS styling
+  ---------------------------- 
+*/
+/*---- Desktop view styling start ----*/
+/* Body(common) styling start */
+body {
+  margin: 0;
+  background: url('../images/backgroundImage.png');
+  background-size: cover;
+  line-height: 1.5;
+  /* position: fixed; */
+}
+p {
+  margin: 0;
+}
+/* Body(common) styling end */
+/* Header styling start */
+header {
+  height: 65px;
+  background-color: #b63157;
+  color: #fff;
+  font-family: Cormorant Garamond;
+  font-weight: 700;
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: 60px;
+}
+.headerLink {
+  cursor: pointer;
+}
+/* Header styling end */
+/* Recipe page content styling start */
+.laFormatting {
+  font-weight: 300;
+}
+.recipePageContent {
+  margin-left: 20%;
+  margin-right: 20%;
+  font-family: 'Raleway', sans-serif;
+}
+.breadcrumbs {
+  font-size: 20px;
+  font-weight: 400;
+  color: #000;
+  margin-top: 20px;
+}
+.breadcrumbs > a {
+  color: #000;
+}
+.recipeTitle {
+  color: #b63157;
+  font-size: 30px;
+  font-weight: 600;
+  margin-top: 40px;
+}
+.chefName {
+  font-size: 16px;
+  font-weight: 600;
+  font-style: italic;
+  margin-top: 10px;
+}
+.recipeDescription {
+  font-size: 18px;
+  margin-top: 30px;
+  font-weight: 500;
+}
+.recipeImageContainer {
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  display: inline-grid;
+  grid-template-columns: auto auto;
+}
+.recipeImage {
+  border-radius: 10px;
+  width: 280px;
+  position: relative;
+  transform: translateX(-50%) translateY(-50%);
+  left: 50%;
+  top: 50%;
+}
+.timings {
+  display: inline-grid;
+  grid-template-columns: 33% 33% 33%;
+  border-radius: 5px;
+  width: 100%;
+  text-align: center;
+  background-color: rgba(35, 4, 17, 0.1);
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.timingText {
+  color: #b63157;
+  font-size: 18px;
+  font-weight: 700;
+}
+.timingValue {
+  font-size: 18px;
+  font-weight: 500;
+}
+.ingredientsTitle,
+.directionsTitle {
+  color: #b63157;
+  font-size: 18px;
+  font-weight: 700;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+.ingredientsText,
+.directionsText {
+  font-size: 18px;
+  font-weight: 500;
+}
+/* Recipe page content styling end */
+/* footer styling start */
+footer {
+  background-color: #6c5865;
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+  display: inline-grid;
+  grid-template-rows: auto auto;
+  font-size: 14px;
+  width: 100%;
+  margin-top: 60px;
+}
+footer > p {
+  text-decoration: underline;
+}
+.creditsPageLink {
+  text-align: center;
+  text-decoration: underline;
+  padding: 20px 0 20px 0;
+  font-weight: 600;
+  font-size: 15px;
+}
+.creditsPageLink > a {
+  color: #fff;
+}
+.footerContent {
+  display: inline-grid;
+  grid-template-columns: 50% 50%;
+  width: 100%;
+  padding-bottom: 20px;
+}
+.footerLeftSection {
+  padding-left: 20%;
+}
+.footerRightSection {
+  text-align: right;
+  padding-right: 20%;
+}
+/* Footer styling end */
+/* Desktop view styling end */
+
+/* Mobile View start*/
+@media screen and (max-width: 480px) {
+  /* Header styling start */
+  header {
+    height: 40px;
+    font-size: 35px;
+    margin-bottom: 30px;
+  }
+  /* Header styling end */
+  /* Recipe page content styling start */
+  .recipePageContent {
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+  .breadcrumbs {
+    font-size: 16px;
+    margin-top: 40px;
+  }
+  .recipeTitle {
+    font-size: 24px;
+    margin-top: 26px;
+  }
+  .chefName {
+    font-size: 14px;
+  }
+  .recipeDescription {
+    font-size: 16px;
+  }
+  .recipeImageContainer {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .recipeImage {
+    width: 100%;
+  }
+  .timings {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .timingText {
+    font-size: 16px;
+    font-weight: 700;
+  }
+  .timingValue {
+    font-size: 16px;
+  }
+  .ingredientsTitle,
+  .directionsTitle {
+    font-size: 16px;
+  }
+  .ingredientsText,
+  .directionsText {
+    font-size: 16px;
+  }
+  /* Recipe page content styling end */
+  /* Footer styling start */
+  footer {
+    grid-template-rows: auto;
+    font-size: 12px;
+    margin-top: 40px;
+  }
+  .creditsPageLink {
+    text-align: left;
+    text-decoration: underline;
+    padding: 10px 0 10px 10px;
+  }
+  .footerContent {
+    display: inline-grid;
+    grid-template-columns: auto;
+    width: 100%;
+    padding-bottom: 20px;
+  }
+  .footerLeftSection {
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+  .footerRightSection {
+    text-align: left;
+    padding-left: 2%;
+    padding-right: 2%;
+    width: 100%;
+  }
+  /* Footer styling end */
+}
+/* Mobile View end*/

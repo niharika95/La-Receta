@@ -1,0 +1,211 @@
+/*
+  ----------------------------
+  New Recipe page CSS styling
+  ---------------------------- 
+*/
+/*---- Desktop view styling start ----*/
+body {
+  margin: 0;
+  background: url('../images/backgroundImage.png');
+  background-size: cover;
+  /* position: fixed; */
+}
+p {
+  margin: 0;
+}
+/*---- 
+ styling start ----*/
+header {
+  height: 65px;
+  background-color: #b63157;
+  color: #fff;
+  font-family: Cormorant Garamond;
+  font-weight: 700;
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: 60px;
+}
+.headerLink {
+  cursor: pointer;
+}
+/*---- Header styling end ----*/
+/*---- Error message styling start ----*/
+.errorMsg {
+  font-size: 15px;
+  color: #d8003d;
+  font-weight: 400;
+  font-family: 'Raleway', sans-serif;
+  background-color: rgb(255, 255, 111);
+}
+/*---- Error message styling end ----*/
+/*---- New Recipe content styling start ----*/
+.laFormatting {
+  font-weight: 300;
+}
+.newRecipePageContent {
+  margin-left: 20%;
+  margin-right: 20%;
+  font-family: 'Raleway', sans-serif;
+}
+.newRecipeTitle {
+  color: #b63157;
+  font-size: 30px;
+  font-weight: 600;
+  margin-top: 40px;
+}
+.tagline {
+  font-family: 'Raleway', sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  margin-bottom: 50px;
+}
+/*---- New Recipe content styling end ----*/
+/*---- Form styling start ----*/
+form {
+  margin-right: 20%;
+  margin-left: 20%;
+}
+.fieldTitles {
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-size: 18px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  color: #b63157;
+}
+input,
+select,
+textarea {
+  margin-bottom: 25px;
+  border-radius: 5px;
+  padding: 8px 10px 8px 10px;
+  border: 1px solid #b63157;
+}
+.singleLineBox,
+.multiLineBox {
+  width: 100%;
+}
+.multiLineBox {
+  height: 70px;
+}
+
+select {
+  width: 178px;
+}
+#buttonDiv {
+  text-align: center;
+}
+#submitButton {
+  background-color: #b63157;
+  color: #fff;
+  font-size: 18px;
+}
+/*---- Form styling end ----*/
+/*---- Footer styling start ----*/
+footer {
+  background-color: #6c5865;
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+  display: inline-grid;
+  grid-template-rows: auto auto;
+  font-size: 14px;
+  width: 100%;
+  margin-top: 60px;
+}
+footer > p {
+  text-decoration: underline;
+}
+.creditsPageLink {
+  text-align: center;
+  text-decoration: underline;
+  padding: 20px 0 20px 0;
+  font-weight: 600;
+  font-size: 15px;
+}
+.creditsPageLink > a {
+  color: #fff;
+}
+.footerContent {
+  display: inline-grid;
+  grid-template-columns: 50% 50%;
+  width: 100%;
+  padding-bottom: 20px;
+}
+.footerLeftSection {
+  padding-left: 20%;
+}
+.footerRightSection {
+  text-align: right;
+  padding-right: 20%;
+}
+/*---- Footer styling end ----*/
+/*---- Desktop view styling end ----*/
+/*---- Mobile View styling start ----*/
+@media screen and (max-width: 480px) {
+  /*---- Header styling start ----*/
+  header {
+    height: 40px;
+    font-size: 35px;
+    margin-bottom: 30px;
+  }
+  /*---- Header styling end ----*/
+  /*---- New Recipe content styling start ----*/
+  .newRecipePageContent {
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+  .newRecipeTitle {
+    font-size: 24px;
+    margin-top: 26px;
+  }
+  .tagline {
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 40px;
+  }
+  /*---- New Recipe content styling end ----*/
+  /*---- Form styling start ----*/
+  form {
+    margin-right: 2%;
+    margin-left: 2%;
+  }
+  input,
+  select,
+  textarea {
+    padding: 8px 0px 8px 2px;
+  }
+  #submitButton {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  /*---- Form styling end ----*/
+  /*---- Footer styling start ----*/
+  footer {
+    grid-template-rows: auto;
+    font-size: 12px;
+    margin-top: 40px;
+  }
+  .creditsPageLink {
+    text-align: left;
+    text-decoration: underline;
+    padding: 10px 0 10px 10px;
+  }
+  .footerContent {
+    display: inline-grid;
+    grid-template-columns: auto;
+    width: 100%;
+    padding-bottom: 20px;
+  }
+  .footerLeftSection {
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+  .footerRightSection {
+    text-align: left;
+    padding-left: 2%;
+    padding-right: 2%;
+    width: 100%;
+  }
+  /*---- Footer styling end ----*/
+}
+/*---- Mobile View styling end ----*/

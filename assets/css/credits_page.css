@@ -1,0 +1,170 @@
+/*
+  ----------------------------
+  Credits page CSS styling
+  ---------------------------- 
+*/
+/*---- Desktop view styling start ----*/
+/* Body(common) styling start */
+body {
+  margin: 0;
+  background: url('../images/backgroundImage.png');
+  background-size: cover;
+  /* position: fixed; */
+}
+p {
+  margin: 0;
+}
+/* Body(common) styling end */
+/* Header styling start */
+header {
+  height: 65px;
+  background-color: #b63157;
+  color: #fff;
+  font-family: Cormorant Garamond;
+  font-weight: 700;
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: 60px;
+}
+.headerLink {
+  cursor: pointer;
+}
+/* Header styling end */
+/* Credit page content styling start */
+.laFormatting {
+  font-weight: 300;
+}
+.creditsTitle {
+  color: #b63157;
+  font-size: 30px;
+  font-weight: 600;
+  margin-top: 40px;
+}
+.tagline {
+  font-family: 'Raleway', sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  margin-bottom: 50px;
+}
+.creditsPageContent {
+  margin-left: 20%;
+  margin-right: 20%;
+  font-family: 'Raleway', sans-serif;
+}
+.creditsPageLink > a {
+  color: #fff;
+}
+.creditName {
+  display: block;
+  color: #b63157;
+  font-size: 18px;
+  font-weight: 700;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+.creditDescription {
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 15px;
+}
+/* Credit page content styling end */
+/* Footer styling start */
+footer {
+  background-color: #6c5865;
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+  display: inline-grid;
+  grid-template-rows: auto auto;
+  font-size: 14px;
+  width: 100%;
+  margin-top: 60px;
+}
+footer > p {
+  text-decoration: underline;
+}
+.creditsPageLink {
+  text-align: center;
+  text-decoration: underline;
+  padding: 20px 0 20px 0;
+  font-weight: 600;
+  font-size: 15px;
+}
+.footerContent {
+  display: inline-grid;
+  grid-template-columns: 50% 50%;
+  width: 100%;
+  padding-bottom: 20px;
+}
+.footerLeftSection {
+  padding-left: 20%;
+}
+.footerRightSection {
+  text-align: right;
+  padding-right: 20%;
+}
+/* Footer styling end */
+/* Desktop View styling end */
+/* Mobile View styling start */
+@media screen and (max-width: 480px) {
+  /* Header styling start */
+  header {
+    height: 40px;
+    font-size: 35px;
+    margin-bottom: 30px;
+  }
+  /* Header styling end */
+  /* Credit page content styling start */
+  .creditsPageContent {
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+  .creditsTitle {
+    font-size: 24px;
+    margin-top: 26px;
+  }
+  .tagline {
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 40px;
+  }
+  .creditName {
+    font-size: 16px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+  }
+  .creditDescription {
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 15px;
+  }
+  /* Credit page content styling end */
+  /* Footer styling start */
+  footer {
+    grid-template-rows: auto;
+    font-size: 12px;
+    margin-top: 40px;
+  }
+  .creditsPageLink {
+    text-align: left;
+    text-decoration: underline;
+    padding: 10px 0 10px 10px;
+  }
+  .footerContent {
+    display: inline-grid;
+    grid-template-columns: auto;
+    width: 100%;
+    padding-bottom: 20px;
+  }
+  .footerLeftSection {
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+  .footerRightSection {
+    text-align: left;
+    padding-left: 2%;
+    padding-right: 2%;
+    width: 100%;
+  }
+  /* Credit page content styling end */
+}
+/* Mobile view styling end */

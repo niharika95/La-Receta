@@ -1,0 +1,253 @@
+/*
+  -------------------------
+  Home page CSS styling
+  ------------------------- 
+*/
+/*---- Desktop view styling start ----*/
+/*---- Body (Common content of home page) styling start ----*/
+body {
+  margin: 0;
+  background: url('../images/backgroundImage.png');
+  background-size: cover;
+  /* position: fixed; */
+}
+p {
+  margin: 0;
+}
+h2,
+h4 {
+  margin: 0;
+}
+.homeContent {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+/*---- Body (Common content of home page) styling end ----*/
+/*---- Header styling start ----*/
+header {
+  height: 65px;
+  background-color: #b63157;
+  color: #fff;
+  font-family: Cormorant Garamond;
+  font-weight: 700;
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: 60px;
+}
+header > span {
+  font-weight: 300;
+}
+/*---- Header styling start ----*/
+/*---- Toast(Succesfully receipie addition notification) styling start ----*/
+.toast {
+  padding: 10px 20px;
+  font-size: 18px;
+  background-color: #31b690;
+  border-radius: 5px;
+  position: absolute;
+  top: 75px;
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  transform: translateX(-50%);
+  left: 50%;
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+.toastShow {
+  opacity: 1;
+}
+.tagline {
+  font-family: 'Raleway', sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  text-align: center;
+  margin-bottom: 65px;
+}
+/*---- Toast(Succesfully receipie addition notification) styling end ----*/
+/*---- Category cards styling start ----*/
+.categories {
+  font-family: 'Raleway', sans-serif;
+  display: inline-grid;
+  grid-template-columns: 30% 30% 30%;
+  grid-gap: 30px 5%;
+  width: 100%;
+}
+.categoryCard {
+  height: 150px;
+  border-radius: 10px;
+}
+.overlay {
+  height: 100%;
+  width: 100%;
+  background-image: linear-gradient(
+    180deg,
+    rgba(215, 0, 64, 0) 0%,
+    rgba(0, 0, 0, 0.6) 49.77%
+  );
+  border-radius: 10px;
+  text-align: center;
+  line-height: 150px;
+}
+.overlay:hover {
+  background-color: #b63157;
+  opacity: 80%;
+  cursor: pointer;
+}
+.categoryName {
+  color: #fff;
+  text-align: center;
+  font-size: 28px;
+  font-weight: 600;
+}
+/*---- Category cards styling end ----*/
+/*---- Add receipie button styling start ----*/
+.addARecipeButtonContainer {
+  margin: auto;
+  margin-top: 100px;
+  cursor: pointer;
+}
+.addARecipeButton {
+  background-color: #b63157;
+  border-radius: 10px;
+  display: inline-grid;
+  grid-template-columns: auto auto;
+  height: 45px;
+  width: 210px;
+  line-height: 45px;
+  font-family: 'Raleway', sans-serif;
+  position: relative;
+  transform: translateX(-50%);
+  left: 50%;
+}
+.addARecipeButton:hover {
+  cursor: pointer;
+}
+.addARecipeIcon {
+  position: absolute;
+  transform: translateY(-50%);
+  top: 50%;
+  padding-left: 15px;
+}
+.addARecipeText {
+  margin: 0;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  padding-right: 15px;
+  padding-left: 55px;
+}
+/*---- Add receipie button styling end ----*/
+/*---- Footer styling start ----*/
+footer {
+  background-color: #6c5865;
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+  display: inline-grid;
+  grid-template-rows: auto auto;
+  font-size: 14px;
+  width: 100%;
+  margin-top: 60px;
+}
+footer > p {
+  text-decoration: underline;
+}
+.creditsPageLink {
+  text-align: center;
+  text-decoration: underline;
+  padding: 20px 0 20px 0;
+  font-weight: 600;
+  font-size: 15px;
+}
+.creditsPageLink > a {
+  color: #fff;
+}
+.footerContent {
+  display: inline-grid;
+  grid-template-columns: 50% 50%;
+  width: 100%;
+  padding-bottom: 20px;
+}
+.footerLeftSection {
+  padding-left: 20%;
+}
+.footerRightSection {
+  text-align: right;
+  padding-right: 20%;
+}
+/*---- Footer styling end ----*/
+/*---- Desktop view styling end ----*/
+/*---- Mobile View styling start ----*/
+@media screen and (max-width: 480px) {
+  /*---- Header styling start ----*/
+  header {
+    height: 40px;
+    font-size: 35px;
+    margin-bottom: 30px;
+  }
+  /*---- Header styling end ----*/
+  /*---- Common content styling start ----*/
+  .homeContent {
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+  /*---- Common content styling end ----*/
+  /*---- Toast(Successful recipe addition notification) styling start ----*/
+  .toast {
+    padding: 10px 10px;
+    text-align: center;
+    font-size: 16px;
+    width: 100%;
+    top: 40px;
+  }
+  .tagline {
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 40px;
+    margin-top: 40px;
+  }
+  /*---- Toast(Successful recipe addition notification) end ----*/
+  /*---- Category card styling start ----*/
+  .categories {
+    grid-template-columns: auto;
+    grid-gap: 15px;
+  }
+  .categoryName {
+    font-size: 24px;
+  }
+  /*---- Category card styling end ----*/
+  /*---- Add recipe button styling start ----*/
+  .addARecipeButtonContainer {
+    margin-top: 50px;
+  }
+  /*---- Add recipe button end ----*/
+  /*---- Footer styling start ----*/
+  footer {
+    grid-template-rows: auto;
+    font-size: 12px;
+    margin-top: 40px;
+  }
+  .creditsPageLink {
+    text-align: left;
+    text-decoration: underline;
+    padding: 10px 0 10px 10px;
+  }
+  .footerContent {
+    display: inline-grid;
+    grid-template-columns: auto;
+    width: 100%;
+    padding-bottom: 20px;
+  }
+  .footerLeftSection {
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+  .footerRightSection {
+    text-align: left;
+    padding-left: 2%;
+    padding-right: 2%;
+    width: 100%;
+  }
+  /*---- Footer styling end ----*/
+}
+/*---- Mobile View styling end ----*/

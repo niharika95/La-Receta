@@ -1,0 +1,400 @@
+{
+  "credits": [
+    {
+      "creditName": "Background Image",
+      "creditUrl": "https://www.freepik.com/free-photo/healthy-ingredients-white-wooden-desk_4930609.htm#page=1&query=background%20kitchen%20white%20space&position=4",
+      "creditDescription": "This image is used as the background image on every page of the website."
+    },
+    {
+      "creditName": "Chef's Hat Image (add your recipe button)",
+      "creditUrl": "https://www.flaticon.com/free-icon/chef_2413004?term=chef&page=1&position=10",
+      "creditDescription": "This image is used in the 'Add a recipe!' button on the home page and the category page."
+    },
+    {
+      "creditName": "Category - Soup Image",
+      "creditUrl": "https://www.freepik.com/free-photo/lentil-soup-with-mixed-ingredients-herbs-white-bowl-with-spoon_5587973.htm#page=1&query=soup&position=3#position=3&page=1&query=soup",
+      "creditDescription": "This image is used as the background image for the 'Soup' category card."
+    },
+    {
+      "creditName": "Category - Bakery Image",
+      "creditUrl": "https://www.freepik.com/free-photo/chocolate-cake-with-chocolate-sprinkles_6384459.htm#page=1&query=cake&position=21",
+      "creditDescription": "This image is used as the background image for the 'Bakery' category card."
+    },
+    {
+      "creditName": "Category - Snacks Image",
+      "creditUrl": "https://www.freepik.com/free-photo/pretzel_1038512.htm#page=1&query=pretzel&position=7",
+      "creditDescription": "This image is used as the background image for the 'Snacks' category card."
+    },
+    {
+      "creditName": "Category - Appetizers Image",
+      "creditUrl": "https://www.freepik.com/free-photo/fried-spring-rolls-cutting-board_5490671.htm#page=1&query=appetizers&position=1",
+      "creditDescription": "This image is used as the background image for the 'Appetizers' category card."
+    },
+    {
+      "creditName": "Category - Entree Image",
+      "creditUrl": "https://www.freepik.com/free-photo/snack-food-soft-plate-cheese_1100711.htm#page=1&query=entree&position=2",
+      "creditDescription": "This image is used as the background image for the 'Entree' category card."
+    },
+    {
+      "creditName": "Category - Desserts Image",
+      "creditUrl": "https://www.freepik.com/free-photo/ice-cream-sundae-edible-waffle-bowl_1239800.htm#page=1&query=sundae&position=22",
+      "creditDescription": "This image is used as the background image for the 'Desserts' category card."
+    },
+
+    {
+      "creditName": "French Onion Soup - Image 1",
+      "creditUrl": "https://www.simplyrecipes.com/wp-content/uploads/2015/02/french-onion-soup-horiz-a-1600-600x400.jpg",
+      "creditDescription": "This image is used as the first image in the 'French Onion Soup' recipe. It is also used as the background image for the 'French Onion Soup' category card."
+    },
+    {
+      "creditName": "French Onion Soup - Image 2",
+      "creditUrl": "https://amandascookin.com/wp-content/uploads/2018/03/IMG_8109-French-Onion-Soup-www.lifeslittlesweets.com-680x680-1-500x500.jpg",
+      "creditDescription": "This image is used as the second image in the 'French Onion Soup' recipe."
+    },
+    {
+      "creditName": "Mom's Turkey Soup - Image 1",
+      "creditUrl": "https://www.simplyrecipes.com/wp-content/uploads/2014/11/turkey-soup-horiz-a-1600-768x551.jpg",
+      "creditDescription": "This image is used as the first image in the 'Mom's Turkey Soup' recipe. It is also used as the background image for the 'Mom's Turkey Soup' category card."
+    },
+    {
+      "creditName": "Mom's Turkey Soup - Image 2",
+      "creditUrl": "https://www.melskitchencafe.com/wp-content/uploads/2019/11/leftover-turkey-soup9-735x490.jpg",
+      "creditDescription": "This image is used as the second image in the 'Mom's Turkey Soup' recipe."
+    },
+    {
+      "creditName": "Spicy Pumpkin Soup - Image 1",
+      "creditUrl": "https://www.simplyrecipes.com/wp-content/uploads/2006/10/spicy-pumpkin-soup-horiz-c-16001-600x400.jpg",
+      "creditDescription": "This image is used as the first image in the 'Spicy Pumpkin Soup' recipe. It is also used as the background image for the 'Spicy Pumpkin Soup' category card."
+    },
+    {
+      "creditName": "Spicy Pumpkin Soup - Image 2",
+      "creditUrl": "https://www.nutmegnanny.com/wp-content/uploads/2018/10/spicy-thai-pumpkin-soup-2.jpg",
+      "creditDescription": "This image is used as the second image in the 'Spicy Pumpkin Soup' recipe."
+    },
+    {
+      "creditName": "Perfect Pie Crust - Image 1",
+      "creditUrl": "https://www.simplyrecipes.com/wp-content/uploads/2005/06/perfect-pie-crust-horiz-a-1800-768x512.jpg",
+      "creditDescription": "This image is used as the first image in the 'Perfect Pie Crust' recipe. It is also used as the background image for the 'Perfect Pie Crust' category card."
+    },
+    {
+      "creditName": "Perfect Pie Crust - Image 2",
+      "creditUrl": "https://tastykitchen.com/recipes/wp-content/uploads/sites/2/2009/10/Sylvias-Perfect-Pie-Crust-420x278.png",
+      "creditDescription": "This image is used as the second image in the 'Perfect Pie Crust' recipe."
+    },
+    {
+      "creditName": "Banana Bread - Image 1",
+      "creditUrl": "https://www.simplyrecipes.com/wp-content/uploads/2014/08/banana-bread-vertical-c-1200-768x1152.jpg",
+      "creditDescription": "This image is used as the first image in the 'Banana Bread' recipe. It is also used as the background image for the 'Banana Bread' category card."
+    },
+    {
+      "creditName": "Banana Bread - Image 2",
+      "creditUrl": "https://i1.wp.com/www.livewellbakeoften.com/wp-content/uploads/2018/01/Banana-Nut-Bread-2.jpg?resize=1360%2C2040&ssl=1",
+      "creditDescription": "This image is used as the second image in the 'Banana Bread' recipe."
+    },
+    {
+      "creditName": "Peanut Butter Cookies - Image 1",
+      "creditUrl": "https://www.simplyrecipes.com/wp-content/uploads/2015/08/peanut-butter-cookies-horiz-a-1800.jpg",
+      "creditDescription": "This image is used as the first image in the 'Peanut Butter Cookies' recipe. It is also used as the background image for the 'Peanut Butter Cookies' category card."
+    },
+    {
+      "creditName": "Peanut Butter Cookies - Image 2",
+      "creditUrl": "https://i2.wp.com/www.livewellbakeoften.com/wp-content/uploads/2017/05/Peanut-Butter-Cookies-3.jpg?resize=1360%2C2040&ssl=1",
+      "creditDescription": "This image is used as the second image in the 'Peanut Butter Cookies' recipe."
+    },
+    {
+      "creditName": "Simple White Cake - Image 1",
+      "creditUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1437162.jpg",
+      "creditDescription": "This image is used as the first image in the 'Simple White Cake' recipe. It is also used as the background image for the 'Simple White Cake' category card."
+    },
+    {
+      "creditName": "Simple White Cake - Image 2",
+      "creditUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F277642.jpg&w=230&h=230&c=sc&poi=face&q=85",
+      "creditDescription": "This image is used as the second image in the 'Simple White Cake' recipe."
+    },
+    {
+      "creditName": "Tortilla Chips - Image 1",
+      "creditUrl": "https://www.simplyrecipes.com/wp-content/uploads/2013/05/homemade-tortilla-chips-vertical-a-800.jpg",
+      "creditDescription": "This image is used as the first image in the 'Tortilla Chips' recipe. It is also used as the background image for the 'Tortilla Chips' category card."
+    },
+    {
+      "creditName": "Tortilla Chips - Image 2",
+      "creditUrl": "https://tafb.org/wp-content/uploads/2019/11/Baked-Tortilla-Chips.png",
+      "creditDescription": "This image is used as the second image in the 'Tortilla Chips' recipe."
+    },
+    {
+      "creditName": "Perfect Popcorn - Image 1",
+      "creditUrl": "https://www.simplyrecipes.com/wp-content/uploads/2015/01/perfect-popcorn-vertical-a-1800-768x1152.jpg",
+      "creditDescription": "This image is used as the first image in the 'Perfect Popcorn' recipe. It is also used as the background image for the 'Perfect Popcorn' category card."
+    },
+    {
+      "creditName": "Perfect Popcorn - Image 2",
+      "creditUrl": "https://bellyfull.net/wp-content/uploads/2019/09/Perfect-Stovetop-Popcorn-blog-2.jpg",
+      "creditDescription": "This image is used as the second image in the 'Perfect Popcorn' recipe."
+    },
+    {
+      "creditName": "Roasted Pumpkin Seeds - Image 1",
+      "creditUrl": "https://www.simplyrecipes.com/wp-content/uploads/2014/10/roasted-pumpkin-seeds-horiz-a-1500-600x400.jpg",
+      "creditDescription": "This image is used as the first image in the 'Roasted Pumpkin Seeds' recipe. It is also used as the background image for the 'Roasted Pumpkin Seeds' category card."
+    },
+    {
+      "creditName": "Roasted Pumpkin Seeds - Image 2",
+      "creditUrl": "https://www.seriouseats.com/recipes/images/2017/10/20171031-pumpkin-seeds-vicky-wasik-1500x1125.jpg",
+      "creditDescription": "This image is used as the second image in the 'Roasted Pumpkin Seeds' recipe."
+    },
+    {
+      "creditName": "Chewy Granola Bars - Image 1",
+      "creditUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F859911.jpg&w=231&h=231&c=sc&poi=face&q=85",
+      "creditDescription": "This image is used as the first image in the 'Chewy Granola Bars' recipe. It is also used as the background image for the 'Chewy Granola Bars' category card."
+    },
+    {
+      "creditName": "Chewy Granola Bars - Image 2",
+      "creditUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2324819.jpg&w=231&h=307.23&c=sc&poi=face&q=85",
+      "creditDescription": "This image is used as the second image in the 'Chewy Granola Bars' recipe."
+    },
+    {
+      "creditName": "Daddy's Popcorn - Image 1",
+      "creditUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1010481.jpg&w=750&h=750&c=sc&poi=face&q=85",
+      "creditDescription": "This image is used as the first image in the 'Daddy's Popcorn' recipe. It is also used as the background image for the 'Daddy's Popcorn' category card."
+    },
+    {
+      "creditName": "Daddy's Popcorn - Image 2",
+      "creditUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F911939.jpg&w=750&h=750&c=sc&poi=face&q=85",
+      "creditDescription": "This image is used as the second image in the 'Daddy's Popcorn' recipe."
+    },
+    {
+      "creditName": "Spring Pasta - Image 1",
+      "creditUrl": "https://www.seriouseats.com/recipes/images/2017/04/20170419-pasta-primavera-30-1500x1125.jpg",
+      "creditDescription": "This image is used as the first image in the 'Spring Pasta' recipe. It is also used as the background image for the 'Spring Pasta' category card."
+    },
+    {
+      "creditName": "Spring Pasta - Image 2",
+      "creditUrl": "https://cdn.crownmediadev.com/92/c8/9f1ee4cf48eca6872da4b7056a88/home-family-spring-pasta.jpg",
+      "creditDescription": "This image is used as the second image in the 'Spring Pasta' recipe."
+    },
+    {
+      "creditName": "Potato Skins - Image 1",
+      "creditUrl": "https://www.simplyrecipes.com/wp-content/uploads/2015/01/potato-skins-vertical-a-1400-768x1075.jpg",
+      "creditDescription": "This image is used as the first image in the 'Potato Skins' recipe. It is also used as the background image for the 'Potato Skins' category card."
+    },
+    {
+      "creditName": "Potato Skins - Image 2",
+      "creditUrl": "https://hips.hearstapps.com/del.h-cdn.co/assets/17/04/1485366450-potato-skinsl1.jpg",
+      "creditDescription": "This image is used as the second image in the 'Potato Skins' recipe."
+    },
+    {
+      "creditName": "Bruschetta with Tomato and Basil - Image 1",
+      "creditUrl": "https://www.simplyrecipes.com/wp-content/uploads/2014/08/bruschetta-tomato-basil-horiz-a-1600-768x512.jpg",
+      "creditDescription": "This image is used as the first image in the 'Bruschetta with Tomato and Basil' recipe. It is also used as the background image for the 'Bruschetta with Tomato and Basil' category card."
+    },
+    {
+      "creditName": "Bruschetta with Tomato and Basil - Image 2",
+      "creditUrl": "https://www.inspiredtaste.net/wp-content/uploads/2016/07/Bruschetta-Recipe-2-1200.jpg",
+      "creditDescription": "This image is used as the second image in the 'Bruschetta with Tomato and Basil' recipe."
+    },
+    {
+      "creditName": "Basic Scrambled Eggs - Image 1",
+      "creditUrl": "https://toriavey.com/images/2014/06/How-to-Scramble-Eggs.jpg",
+      "creditDescription": "This image is used as the first image in the 'Basic Scrambled Eggs' recipe. It is also used as the background image for the 'Basic Scrambled Eggs' category card."
+    },
+    {
+      "creditName": "Basic Scrambled Eggs - Image 2",
+      "creditUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuajbHKi6lW0TOpiYb7U5iqmpsFO4joh7P0cGdYxoT10hn07WA&usqp=CAU",
+      "creditDescription": "This image is used as the second image in the 'Basic Scrambled Eggs' recipe."
+    },
+    {
+      "creditName": "Slow Cooker Baby Back Ribs - Image 1",
+      "creditUrl": "https://img.buzzfeed.com/video-api-prod/assets/81733b053eaf4e6c851a676b20798932/BFV6085_Slow-Cooker-Ribs_Thumb.jpg",
+      "creditDescription": "This image is used as the first image in the 'Slow Cooker Baby Back Ribs' recipe. It is also used as the background image for the 'Slow Cooker Baby Back Ribs' category card."
+    },
+    {
+      "creditName": "Slow Cooker Baby Back Ribs - Image 2",
+      "creditUrl": "https://tastesbetterfromscratch.com/wp-content/uploads/2017/10/Slow-Cooker-Ribs-6.jpg",
+      "creditDescription": "This image is used as the second image in the 'Slow Cooker Baby Back Ribs' recipe."
+    },
+    {
+      "creditName": "Garlic Bread - Image 1",
+      "creditUrl": "https://www.simplyrecipes.com/wp-content/uploads/2006/09/Garlic-Bread-LEAD-2b-768x1075.jpg",
+      "creditDescription": "This image is used as the first image in the 'Garlic Bread' recipe. It is also used as the background image for the 'Garlic Bread' category card."
+    },
+    {
+      "creditName": "Garlic Bread - Image 2",
+      "creditUrl": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2015/5/28/2/TM1A14F_Garlic-Bread_s4x3.jpg.rend.hgtvcom.826.620.suffix/1433523400627.jpeg",
+      "creditDescription": "This image is used as the second image in the 'Garlic Bread' recipe."
+    },
+    {
+      "creditName": "Spatchcock Chicken - Image 1",
+      "creditUrl": "https://www.fifteenspatulas.com/wp-content/uploads/2018/12/Spatchcock-Chicken-Fifteen-Spatulas-1.jpg",
+      "creditDescription": "This image is used as the first image in the 'Spatchcock Chicken' recipe. It is also used as the background image for the 'Spatchcock Chicken' category card."
+    },
+    {
+      "creditName": "Spatchcock Chicken - Image 2",
+      "creditUrl": "https://www.abeautifulplate.com/wp-content/uploads/2019/02/spatchcock-chicken-recipe-1-2-735x1103.jpg",
+      "creditDescription": "This image is used as the second image in the 'Spatchcock Chicken' recipe."
+    },
+    {
+      "creditName": "Best Fudgy Cocoa Brownies - Image 1",
+      "creditUrl": "https://cafedelites.com/wp-content/uploads/2016/08/Fudgy-Cocoa-Brownies-13.jpg",
+      "creditDescription": "This image is used as the first image in the 'Best Fudgy Cocoa Brownies' recipe. It is also used as the background image for the 'Best Fudgy Cocoa Brownies' category card."
+    },
+    {
+      "creditName": "Best Fudgy Cocoa Brownies - Image 2",
+      "creditUrl": "https://www.closetcooking.com/wp-content/uploads/2018/02/FudgyCocoaBrownies8003634-min.jpg",
+      "creditDescription": "This image is used as the second image in the 'Best Fudgy Cocoa Brownies' recipe."
+    },
+    {
+      "creditName": "Cream Cheese Frosting - Image 1",
+      "creditUrl": "https://cdn.sallysbakingaddiction.com/wp-content/uploads/2016/10/cream-cheese-frosting-on-carrot-cake-cupcake.jpg",
+      "creditDescription": "This image is used as the first image in the 'Cream Cheese Frosting' recipe. It is also used as the background image for the 'Cream Cheese Frosting' category card."
+    },
+    {
+      "creditName": "Cream Cheese Frosting - Image 2",
+      "creditUrl": "https://bakingamoment.com/wp-content/uploads/2019/03/IMG_3383-best-way-to-make-cream-cheese-frosting.jpg",
+      "creditDescription": "This image is used as the second image in the 'Cream Cheese Frosting' recipe."
+    },
+    {
+      "creditName": "Sour Cream Pie Crust - Image 1",
+      "creditUrl": "https://4.bp.blogspot.com/-GG_Mqb_ld0E/UdnN73ToxGI/AAAAAAAAHTw/fSU7ExlWPx8/w1200-h630-p-k-no-nu/Sour+Cream+Pie+Crust.jpg",
+      "creditDescription": "This image is used as the first image in the 'Sour Cream Pie Crust' recipe. It is also used as the background image for the 'Sour Cream Pie Crust' category card."
+    },
+    {
+      "creditName": "Sour Cream Pie Crust - Image 2",
+      "creditUrl": "https://i.pinimg.com/474x/0b/f9/f1/0bf9f185a911866c695937163532b698--homemade-pie-crusts-flaky-pie-crusts.jpg",
+      "creditDescription": "This image is used as the second image in the 'Sour Cream Pie Crust' recipe."
+    },
+    {
+      "creditName": "Fresh Berry Fool - Image 1",
+      "creditUrl": "https://images.media-allrecipes.com/userphotos/560x315/3931900.jpg",
+      "creditDescription": "This image is used as the first image in the 'Fresh Berry Fool' recipe. It is also used as the background image for the 'Fresh Berry Fool' category card."
+    },
+    {
+      "creditName": "Fresh Berry Fool - Image 2",
+      "creditUrl": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2Farchive%2F73e26a6b357ea7a75f7b98058aedf229949bd08b",
+      "creditDescription": "This image is used as the second image in the 'Fresh Berry Fool' recipe."
+    },
+    {
+      "creditName": "Key Lime Pie VII - Image 1",
+      "creditUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7345563.jpg&w=767&h=767&c=sc&poi=face&q=85",
+      "creditDescription": "This image is used as the first image in the 'Key Lime Pie VII' recipe. It is also used as the background image for the 'Key Lime Pie VII' category card."
+    },
+    {
+      "creditName": "Key Lime Pie VII - Image 2",
+      "creditUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5099834.jpg&w=767&h=513.89&c=sc&poi=face&q=85",
+      "creditDescription": "This image is used as the second image in the 'Key Lime Pie VII' recipe."
+    },
+    {
+      "creditName": "French Onion Soup - Recipe",
+      "creditUrl": "https://offthehoofmeat.com/blog/our-picks/soups/french-onion-soup/",
+      "creditDescription": "This recipe is for 'French Onion Soup'."
+    },
+    {
+      "creditName": "Mom's Turkey Soup - Recipe",
+      "creditUrl": "https://www.simplyrecipes.com/recipes/moms_turkey_soup/",
+      "creditDescription": "This recipe is for 'Mom's Turkey Soup'."
+    },
+    {
+      "creditName": "Spicy Pumpkin Soup - Recipe",
+      "creditUrl": "https://www.simplyrecipes.com/recipes/spicy_pumpkin_soup/",
+      "creditDescription": "This recipe is for 'Spicy Pumpkin Soup'."
+    },
+    {
+      "creditName": "Perfect Pie Crust - Recipe",
+      "creditUrl": "https://www.simplyrecipes.com/recipes/perfect_pie_crust/",
+      "creditDescription": "This recipe is for 'Perfect Pie Crust'."
+    },
+    {
+      "creditName": "Banana Bread - Recipe",
+      "creditUrl": "https://www.dtc-wsuv.org/chill16/recipe/",
+      "creditDescription": "This recipe is for 'Banana Bread'."
+    },
+    {
+      "creditName": "Peanut Butter Cookies - Recipe",
+      "creditUrl": "https://www.simplyrecipes.com/recipes/peanut_butter_cookies/",
+      "creditDescription": "This recipe is for 'Peanut Butter Cookies'."
+    },
+    {
+      "creditName": "Simple White Cake - Recipe",
+      "creditUrl": "https://www.allrecipes.com/recipe/17481/simple-white-cake/",
+      "creditDescription": "This recipe is for 'Simple White Cake'."
+    },
+    {
+      "creditName": "Tortilla Chips - Recipe",
+      "creditUrl": "https://www.simplyrecipes.com/recipes/how_to_make_homemade_tortilla_chips/",
+      "creditDescription": "This recipe is for 'Tortilla Chips'."
+    },
+    {
+      "creditName": "Perfect Popcorn - Recipe",
+      "creditUrl": "https://www.simplyrecipes.com/recipes/perfect_popcorn/",
+      "creditDescription": "This recipe is for 'Perfect Popcorn'."
+    },
+    {
+      "creditName": "Roasted Pumpkin Seeds - Recipe",
+      "creditUrl": "https://www.simplyrecipes.com/recipes/toasted_pumpkin_seeds/",
+      "creditDescription": "This recipe is for 'Roasted Pumpkin Seeds'."
+    },
+    {
+      "creditName": "Chewy Granola Bars - Recipe",
+      "creditUrl": "https://www.allrecipes.com/recipe/11382/chewy-granola-bars/",
+      "creditDescription": "This recipe is for 'Chewy Granola Bars'."
+    },
+    {
+      "creditName": "Daddy's Popcorn - Recipe",
+      "creditUrl": "https://www.allrecipes.com/recipe/73032/daddys-popcorn/?internalSource=hub%20recipe&referringId=17146&referringContentType=Recipe%20Hub&clickId=cardslot%206",
+      "creditDescription": "This recipe is for 'Daddy's Popcorn'."
+    },
+    {
+      "creditName": "Potato Skins - Recipe",
+      "creditUrl": "https://www.simplyrecipes.com/recipes/potato_skins/",
+      "creditDescription": "This recipe is for 'Potato Skins'."
+    },
+    {
+      "creditName": "Bruschetta with Tomato and Basil - Recipe",
+      "creditUrl": "https://www.simplyrecipes.com/recipes/bruschetta_with_tomato_and_basil/",
+      "creditDescription": "This recipe is for 'Bruschetta with Tomato and Basil'."
+    },
+    {
+      "creditName": "Basic Scrambled Eggs - Recipe",
+      "creditUrl": "https://www.incredibleegg.org/cooking-school/egg-cookery/stovetop-scramble-eggs/",
+      "creditDescription": "This recipe is for 'Basic Scrambled Eggs'."
+    },
+    {
+      "creditName": "Slow Cooker Baby Back Ribs - Recipe",
+      "creditUrl": "https://www.allrecipes.com/recipe/228498/slow-cooker-baby-back-ribs/",
+      "creditDescription": "This recipe is for 'Slow Cooker Baby Back Ribs'."
+    },
+    {
+      "creditName": "Garlic Bread - Recipe",
+      "creditUrl": "https://www.simplyrecipes.com/recipes/garlic_bread/",
+      "creditDescription": "This recipe is for 'Garlic Bread'."
+    },
+    {
+      "creditName": "Spatchcock Chicken - Recipe",
+      "creditUrl": "https://www.allrecipes.com/recipe/246274/spatchcock-chicken/?internalSource=staff%20pick&referringId=1947&referringContentType=Recipe%20Hub&clickId=cardslot%201",
+      "creditDescription": "This recipe is for 'Spatchcock Chicken'."
+    },
+    {
+      "creditName": "Best Fudgy Cocoa Brownies - Recipe",
+      "creditUrl": "https://newvitality.net/fudgy-cocoa-brownies/",
+      "creditDescription": "This recipe is for 'Best Fudgy Cocoa Brownies'."
+    },
+    {
+      "creditName": "Cream Cheese Frosting - Recipe",
+      "creditUrl": "https://www.simplyrecipes.com/recipes/cream_cheese_frosting/",
+      "creditDescription": "This recipe is for 'Cream Cheese Frosting'."
+    },
+    {
+      "creditName": "Sour Cream Pie Crust - Recipe",
+      "creditUrl": "https://www.simplyrecipes.com/recipes/sour_cream_pie_crust/",
+      "creditDescription": "This recipe is for 'Sour Cream Pie Crust'."
+    },
+    {
+      "creditName": "Fresh Berry Fool - Recipe",
+      "creditUrl": "https://www.allrecipes.com/recipe/255304/chef-johns-fresh-berry-fool/?src=VD_Summary",
+      "creditDescription": "This recipe is for 'Fresh Berry Fool'."
+    },
+    {
+      "creditName": "Key Lime Pie VII - Recipe",
+      "creditUrl": "https://www.allrecipes.com/recipe/15880/key-lime-pie-vii/?internalSource=recipe%20hub&referringId=79&referringContentType=Recipe%20Hub&clickId=cardslot%2025",
+      "creditDescription": "This recipe is for 'Key Lime Pie VII'."
+    }
+  ]
+}
